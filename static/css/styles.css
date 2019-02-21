@@ -5,15 +5,35 @@
     background-repeat: no-repeat;
     padding-bottom: 500px;
 }
-
+/* about */
+#about{
+    background-image: url('../images/backgrounds/about.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+}
+fieldset {
+    /* display: block; */
+    /* margin-left: 2px; */
+    /* margin-right: 2px; */
+    padding-top: 0.35em;
+    /* padding-bottom: 0.625em; */
+    /* padding-left: 0.75em; */
+    /* padding-right: 0.75em; */
+    border: 3px solid #adad85;
+    width: 43%;
+    position: relative;
+    left: 30%;
+}
 /* sale */
 #sale{
     background-color: #393e46;
+    /* padding-bottom: 0px; */
 }
 /* social */
 #social{
     background-color: #222831;
-    padding-top: 60px;
+    /* padding-top: 60px; */
 }
 #links{
     padding-right: 100px;
