@@ -5,6 +5,11 @@
     background-repeat: no-repeat;
     padding-bottom: 500px;
 }
+
+/* sale */
+#sale{
+    background-color: #393e46;
+}
 /* social */
 #social{
     background-color: #222831;
