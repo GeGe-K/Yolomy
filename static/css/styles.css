@@ -1,0 +1,52 @@
+/* landing */
+#landing{
+    background-image: url('../images/backgrounds/hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 500px;
+}
+/* social */
+#social{
+    background-color: #222831;
+    padding-top: 60px;
+}
+#links{
+    padding-right: 100px;
+    align-items: center;
+}
+footer{
+    margin-top: 50px;
+}
+/* ul {
+    text-align: right;
+}
+
+​ li {
+    display: inline-block;
+}
+
+​ nav>ul>li>a {
+    padding-top: 50px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    margin-right: 60px;
+    font-size: 20px;
+} */
+
+/* ul {
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+}
+
+nav>ul>li>a {
+    padding-top: 50px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    margin-right: 60px;
+    font-size: 20px;
+} */
