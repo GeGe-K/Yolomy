@@ -1,77 +1,70 @@
+*{
+    font-family: 'Montserrat',
+    sans-serif;
+}
 /* landing */
-#landing{
+#landing {
     background-image: url('../images/backgrounds/hero.jpg');
-    background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     padding-bottom: 500px;
+    background-position: center;
+    height: 100vh;
 }
+
+#home{
+    text-align: center;
+    padding-top: 100px;
+}
+#mouse{
+    padding-top: 250px;
+}
+
+/* select */
+#select {
+    background-color: #adad85;
+
+}
+
+.container-fluid {
+    padding: 0px;
+    overflow-x: hidden;
+}
+
 /* about */
-#about{
+#about {
     background-image: url('../images/backgrounds/about.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 200px;
+    background-position: center;
 }
+
 fieldset {
-    /* display: block; */
-    /* margin-left: 2px; */
-    /* margin-right: 2px; */
     padding-top: 0.35em;
-    /* padding-bottom: 0.625em; */
-    /* padding-left: 0.75em; */
-    /* padding-right: 0.75em; */
     border: 3px solid #adad85;
     width: 43%;
     position: relative;
     left: 30%;
 }
+
 /* sale */
-#sale{
+#sale {
     background-color: #393e46;
     /* padding-bottom: 0px; */
 }
+
 /* social */
-#social{
+#social {
     background-color: #222831;
     /* padding-top: 60px; */
 }
-#links{
+
+#links {
     padding-right: 100px;
     align-items: center;
 }
-footer{
+
+footer {
     margin-top: 50px;
 }
-/* ul {
-    text-align: right;
-}
-
-​ li {
-    display: inline-block;
-}
-
-​ nav>ul>li>a {
-    padding-top: 50px;
-    text-decoration: none;
-    display: block;
-    color: white;
-    margin-right: 60px;
-    font-size: 20px;
-} */
-
-/* ul {
-    text-align: right;
-}
-
-li {
-    display: inline-block;
-}
-
-nav>ul>li>a {
-    padding-top: 50px;
-    text-decoration: none;
-    display: block;
-    color: white;
-    margin-right: 60px;
-    font-size: 20px;
-} */
